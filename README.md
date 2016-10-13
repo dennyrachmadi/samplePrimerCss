@@ -9,13 +9,14 @@ Contoh Aplikasi menggunakan Primercss.
 npm install --save primer-css
 ````
 2. Dari Root Direktori Project anda buatlah Struktur Folder seperti berikut ini (node_modules sengaja dihilangkan).
-```` 
-├───build
-└───src
+````
+ ├───build
+ └───src
 ````
 
 
 1. tambahkab dependensi primercss ke package.json
+```` npm install --save primer-css ````
 2. dari root dir project buat folder-folder seperti berikut :
 ````
 ├───build
