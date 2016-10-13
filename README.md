@@ -8,3 +8,9 @@ Langkah :
 ````
 npm install --save primer-css
 ````
+2. Dari Root Direktori Project Buat Struktur Folder (kecuali node_modules)
+```` 
+├───build
+├───node_modules
+└───src
+````
