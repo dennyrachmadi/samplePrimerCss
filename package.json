@@ -4,7 +4,7 @@
   "description": "simple web menggunakan primercss",
   "main": "index.js",
   "scripts": {
-    "tree":"node index.js"
+    "tree": "node index.js"
   },
   "keywords": [
     "primercss"
@@ -13,5 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "primer-css": "^4.2.0"
+  },
+  "devDependencies": {
+    "tree-directory": "^0.1.0"
   }
 }
