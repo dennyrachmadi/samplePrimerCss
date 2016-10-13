@@ -4,4 +4,6 @@ Contoh Aplikasi menggunakan Primercss.
 
 Langkah :
 1. Tambahkan dependensi PrimerCss ke package.json
+````
 npm install --save primer-css
+````
