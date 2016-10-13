@@ -16,7 +16,9 @@ npm install --save primer-css
 
 
 1. tambahkab dependensi primercss ke package.json
-```` npm install --save primer-css ````
+```` 
+npm install --save primer-css 
+````
 2. dari root dir project buat folder-folder seperti berikut :
 ````
 ├───build
