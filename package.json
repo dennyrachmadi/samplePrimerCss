@@ -10,5 +10,8 @@
     "primercss"
   ],
   "author": "denny rachmadi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "primer-css": "^4.2.0"
+  }
 }
