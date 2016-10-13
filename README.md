@@ -1,3 +1,3 @@
 # samplePrimerCss
-Contoh Aplikasi menggunakan Primercss 
-url: http://primercss.io/
+Contoh Aplikasi menggunakan Primercss.
+( url: http://primercss.io/ )
