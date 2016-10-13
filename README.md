@@ -13,3 +13,6 @@ npm install --save primer-css
 ├───build
 └───src
 ````
+
+* tambahkan dependensi development gulp.js (build tools) 
+```` npm install --save-dev gulp ````
