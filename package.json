@@ -1,0 +1,14 @@
+{
+  "name": "sample_primercss",
+  "version": "1.0.0",
+  "description": "simple web menggunakan primercss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "primercss"
+  ],
+  "author": "denny rachmadi",
+  "license": "ISC"
+}
